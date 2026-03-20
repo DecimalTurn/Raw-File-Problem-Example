@@ -1,0 +1,3 @@
+An example file with em dash
+' ————————————————————————————————————————————————————— '
+As simple as that
