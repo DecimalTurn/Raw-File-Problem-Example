@@ -1,3 +1,3 @@
 *.bin binary
 Example2.txt -text
-Example3.txt -text 
+Example3.txt -text working-tree-encoding=CP1252
